@@ -4,4 +4,4 @@ A Weather Changer mod for Gorilla Tag (Beta)
 # 
 This mod does not collaborate with Another Axiom/Gorilla Tag nor is it a real feature for the game.
 # Controls
-The current controls to change the weather is F5, F6, F7, F8. They could change in the future. If the controls change, this text will change.
+The current controls are F9 to open up a menu on your monitor to configure and change the weather. They could change in the future. If the controls change, this text will change.
